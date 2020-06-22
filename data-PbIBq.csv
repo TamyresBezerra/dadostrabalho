@@ -1,0 +1,153 @@
+país,mortes / 1 milhão hab,mortes,população
+:af: Afeganistão,6.6,257,38928341
+:za: África do Sul,10.8,643,59308690
+:al: Albânia,11.5,33,2877800
+:de: Alemanha,101.9,8539,83783945
+:ao: Angola,0.1,4,32866268
+:sa: Arábia Saudita,13.8,480,34813867
+:dz: Argélia,14.7,646,43851043
+:ar: Argentina,11.7,528,45195777
+:am: Armênia,44.2,131,2963234
+:au: Austrália,4,103,25499881
+:at: Áustria,74.2,668,9006400
+:az: Azerbaijão,6,61,10139175
+:bh: Bahrein,10.6,18,1701583
+:bd: Bangladesh,3.9,650,164689383
+:be: Bélgica,816.9,9467,11589616
+:bj: Benim,0.2,3,12123198
+:by: Bielorrússia,24.9,235,9449321
+:bo: Bolívia,26.6,310,11673029
+:ba: Bósnia e Herzegovina,46.6,153,3280815
+:bw: Botsuana,0.4,1,2351625
+:br: Brasil,135.7,28834,212559409
+:bg: Bulgária,20.1,140,6948445
+:bf: Burkina Faso,2.5,53,20903278
+:bi: Burundi,0.1,1,11890781
+:cm: Camarões,7.2,191,26545864
+:kh: Camboja,0,0,16718971
+:ca: Canadá,189.7,7158,37742157
+:qa: Catar,13.2,38,2881060
+:kz: Cazaquistão,2.1,40,18776707
+:td: Chade,4,65,16425859
+:cl: Chile,52.2,997,19116209
+:cn: China,3.2,4638,1439323774
+:co: Colômbia,18,916,50882884
+:cg: Congo,3.4,19,5518092
+:kr: Coreia do Sul,5.3,270,51269183
+:ci: Costa do Marfim,1.3,33,26378275
+:cr: Costa Rica,2,10,5094114
+:hr: Croácia,25.1,103,4105268
+:cu: Cuba,7.3,83,11326616
+:dk: Dinamarca,99.1,574,5792203
+:eg: Egito,8.9,913,102334403
+:sv: El Salvador,7.1,46,6486201
+:ae: Emirados Árabes,26.7,264,9890400
+:ec: Equador,189,3334,17643060
+:er: Eritreia,0,0,3546427
+:sk: Eslováquia,5.1,28,5459643
+:si: Eslovênia,51.9,108,2078932
+:es: Espanha,580.2,27125,46754783
+:us: Estados Unidos,312.8,103533,331002647
+:ee: Estônia,51.3,68,1326539
+:et: Etiópia,0.1,11,114963583
+:ph: Filipinas,8.7,950,109581085
+:fi: Finlândia,57.8,320,5540718
+:fr: França,440.8,28774,65273512
+:ga: Gabão,7.6,17,2225728
+:gm: Gâmbia,0.4,1,2416664
+:gh: Gana,1.2,36,31072945
+:ge: Geórgia,3,12,3989175
+:gr: Grécia,16.8,175,10423056
+:gt: Guatemala,5.7,102,17915567
+:gn: Guiné,1.8,23,13132792
+:gq: Guiné Equatorial,8.6,12,1402985
+:gw: Guiné-Bissau,4.1,8,1967998
+:ht: Haiti,3.6,41,11402533
+:nl: Holanda,348.7,5975,17134873
+:hn: Honduras,20.3,201,9904608
+:hu: Hungria,54.4,526,9660350
+:ye: Iêmen,2.6,77,29825968
+:mu: Ilhas Maurício,7.9,10,1271767
+:in: Índia,3.8,5188,1380004385
+:id: Indonésia,5.9,1613,273523621
+:ir: Irã,92.8,7797,83992953
+:iq: Iraque,4.8,195,40222503
+:ie: Irlanda,334.4,1651,4937796
+:il: Israel,32.8,284,8655541
+:it: Itália,551.4,33340,60461828
+:jm: Jamaica,3,9,2961161
+:jp: Japão,7.1,897,126476458
+:jo: Jordânia,0.9,9,10203140
+:kw: Kuwait,49.6,212,4270563
+:la: Laos,0,0,7275556
+:ls: Lesoto,0,0,2142252
+:lv: Letônia,12.7,24,1886202
+:lb: Líbano,3.8,26,6825442
+:lr: Libéria,5.3,27,5057677
+:ly: Líbia,0.7,5,6871287
+:lt: Lituânia,25.7,70,2722291
+:mk: Macedônia,63.8,133,2083380
+:mg: Madagascar,0.2,6,27691019
+:my: Malásia,3.6,115,32365998
+:mw: Malávi,0.2,4,19129955
+:ml: Mali,3.8,76,20250834
+:ma: Marrocos,5.5,204,36910558
+:mr: Mauritânia,4.3,20,4649660
+:mx: México,75.8,9779,128932753
+:mz: Moçambique,0.1,2,31255435
+:md: Moldávia,72.9,294,4033963
+:mn: Mongólia,0,0,3278292
+:mm: Myanmar,0.1,6,54409794
+:na: Namíbia,0,0,2540916
+:np: Nepal,0.3,8,29136808
+:ni: Nicarágua,5.3,35,6624554
+:ne: Níger,2.6,64,24206636
+:ng: Nigéria,1.3,273,206139587
+:no: Noruega,43.5,236,5421242
+:nz: Nova Zelândia,4.6,22,4822233
+:om: Omã,8.6,44,5106622
+:pa: Panamá,76.5,330,4314768
+:pg: Papua-Nova Guiné,0,0,8947027
+:pk: Paquistão,6.7,1483,220892331
+:py: Paraguai,1.5,11,7132530
+:pe: Peru,132.6,4371,32971846
+:pl: Polônia,28.1,1064,37846605
+:pt: Portugal,138.3,1410,10196707
+:ke: Quênia,1.2,63,53771300
+:kg: Quirguizistão,2.5,16,6524191
+:gb: Reino Unido,566.5,38458,67886004
+:cf: República Centro-Africana,0.2,1,4829764
+:cz: República Checa,29.8,319,10708982
+:cd: República Democrática do Congo,0.8,72,89561404
+:do: República Dominicana,45.9,498,10847904
+:ro: Romênia,65.6,1262,19237682
+:rw: Ruanda,0.1,1,12952209
+:ru: Rússia,32.2,4693,145934460
+:sn: Senegal,2.5,42,16743930
+:sl: Serra Leoa,5.8,46,7976985
+:rs: Sérvia,35.6,242,6804596
+:sg: Singapura,3.9,23,5850343
+:sy: Síria,0.2,4,17500657
+:so: Somália,4.6,73,15893219
+:lk: Sri Lanka,0.5,10,21413250
+:sz: Suazilândia,1.7,2,1160164
+:sd: Sudão,6,262,43849269
+:ss: Sudão do Sul,0.9,10,11193729
+:se: Suécia,435.2,4395,10099270
+:ch: Suíça,221.8,1920,8654618
+:th: Tailândia,0.8,57,69799978
+:tw: Taiwan,0.3,7,23816775
+:tj: Tajiquistão,4.9,47,9537642
+:tz: Tanzânia,0.4,21,59734213
+:tl: Timor Leste,0,0,1318442
+:tg: Togo,1.6,13,8278737
+:tt: Trinidad e Tobago,5.7,8,1399491
+:tn: Tunísia,4.1,48,11818618
+:tr: Turquia,53.5,4515,84339067
+:ua: Ucrânia,16.2,708,43733759
+:ug: Uganda,0,0,45741000
+:uy: Uruguai,6.3,22,3473727
+:uz: Uzbequistão,0.4,14,33469199
+:ve: Venezuela,0.5,14,28435943
+:vn: Vietnã,0,0,97338583
+:zm: Zâmbia,0.4,7,18383956
